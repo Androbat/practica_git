@@ -1,1 +1,5 @@
-alert("Editado2");
+function createFile(file){
+  console.log(file);
+}
+
+createFile("Everything's going greate");
